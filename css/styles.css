@@ -1,0 +1,116 @@
+/* Estilo para la clase .navbar */
+.navbar {
+  background-color: #7ccc8e; /* Cambia el color a verde (#7ccc8e) o el color que prefieras */
+  color: #fff;
+}
+
+/* Estilo para la clase .navbar-nav */
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+/* Estilo para la clase .nav-item */
+.nav-item {
+  margin-right: 15px;
+}
+
+/* Estilo para la clase .nav-link */
+.nav-link {
+  color: #fff; /* Cambia el color del texto a blanco o el color que prefieras */
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px; /* Ajusta el relleno según sea necesario */
+  border-radius: 5px; /* Añade bordes redondeados para simular botones cuadrados */
+  transition: background-color 0.3s; /* Efecto de transición para suavizar el cambio de color al pasar el ratón */
+  font-family: 'Arial', sans-serif; /* Cambia la fuente según tu preferencia */
+}
+
+/* Estilo para la clase .nav-link:hover */
+.nav-link:hover {
+  text-decoration: none;
+  background-color: #5faa74; /* Cambia el color al pasar el ratón a un tono más oscuro o el color que prefieras */
+}
+
+
+/* Estilo para la clase .resume-section-content */
+.resume-section-content {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    color: #333;
+}
+
+/* Estilo para la clase .navbar-nav */
+.navbar-nav table {
+  width: 100%;
+}
+
+/* Estilo para la clase .nav-link */
+.nav-link {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-family: 'Arial', sans-serif;
+  display: block; /* Hace que los enlaces ocupen todo el ancho de la celda */
+}
+
+/* Estilo para la clase .nav-link:hover */
+.nav-link:hover {
+  text-decoration: none;
+  background-color: #5faa74;
+}
+
+/* Estilo para la clase .subheading */
+.subheading {
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+/* Estilo para la clase .mb-0 */
+.mb-0 {
+    margin-bottom: 0;
+}
+
+/* Estilo para la clase .mb-5 */
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+/* Estilo para la clase .container-fluid */
+.container-fluid {
+    padding: 20px;
+}
+
+/* Estilo para la clase .resume-section */
+.resume-section {
+    padding: 50px 0;
+}
+
+/* Estilo para la clase .navbar-brand */
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilo para la clase .navbar-nav a */
+.navbar-nav a {
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilo para la clase .js-scroll-trigger */
+.js-scroll-trigger {
+    color: #3498db;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Estilo para la clase .js-scroll-trigger:hover */
+.js-scroll-trigger:hover {
+    text-decoration: underline;
+    color: #2980b9;
+}
+
+
